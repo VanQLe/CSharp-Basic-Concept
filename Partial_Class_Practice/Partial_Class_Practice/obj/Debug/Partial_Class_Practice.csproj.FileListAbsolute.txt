@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\bin\Debug\Partial_Class_Practice.exe.config
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\bin\Debug\Partial_Class_Practice.exe
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\bin\Debug\Partial_Class_Practice.pdb
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\Partial_Class_Practice.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\Partial_Class_Practice_MarkupCompile.cache
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\Partial_Class_Practice_MarkupCompile.lref
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\Partial_Class_Practice.g.resources
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\Partial_Class_Practice.Properties.Resources.resources
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\Partial_Class_Practice.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\Partial_Class_Practice.exe
+\\Mac\Home\Desktop\C# basic concept\Partial_Class_Practice\Partial_Class_Practice\obj\Debug\Partial_Class_Practice.pdb

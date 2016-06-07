@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\bin\Debug\InterviewQuestion_convert.tostring NToString F.exe.config
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\bin\Debug\InterviewQuestion_convert.tostring NToString F.exe
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\bin\Debug\InterviewQuestion_convert.tostring NToString F.pdb
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\InterviewQuestion_convert.tostring NToString F.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\InterviewQuestion_convert.tostring NToString F_MarkupCompile.cache
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\InterviewQuestion_convert.tostring NToString F_MarkupCompile.lref
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\InterviewQuestion_convert.tostring NToString F.g.resources
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\InterviewQuestion_convert.tostring_NToString_F.Properties.Resources.resources
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\InterviewQuestion_convert.tostring NToString F.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\InterviewQuestion_convert.tostring NToString F.exe
+\\Mac\Home\Desktop\C# basic concept\InterviewQuestion_convert.tostring NToString F\InterviewQuestion_convert.tostring NToString F\obj\Debug\InterviewQuestion_convert.tostring NToString F.pdb

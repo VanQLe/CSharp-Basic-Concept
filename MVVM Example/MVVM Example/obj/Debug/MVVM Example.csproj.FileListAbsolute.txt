@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\bin\Debug\MVVM Example.exe.config
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\bin\Debug\MVVM Example.exe
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\bin\Debug\MVVM Example.pdb
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example_MarkupCompile.cache
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example_MarkupCompile.lref
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.g.resources
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM_Example.Properties.Resources.resources
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.exe
+\\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.pdb
