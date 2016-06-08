@@ -12,3 +12,16 @@
 \\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.GenerateResource.Cache
 \\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.exe
 \\Mac\Home\Desktop\C# basic concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.pdb
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.exe
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.pdb
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\bin\Debug\MVVM Example.exe
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\bin\Debug\MVVM Example.pdb
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\App.g.cs
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example_MarkupCompile.cache
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example_MarkupCompile.lref
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.g.resources
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\MVVM_Example.Properties.Resources.resources
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\Views\MainWindow.g.cs
+C:\Users\User1\Desktop\C# basic\CSharp-Basic-Concept\MVVM Example\MVVM Example\obj\Debug\Views\MainWindow.baml

@@ -1,7 +1,7 @@
-﻿<Application x:Class="MVVM_Example.App"
+﻿<Application x:Class="MVVM__DCOMEXAMPLE_Practice_1.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:MVVM_Example"
+             xmlns:local="clr-namespace:MVVM__DCOMEXAMPLE_Practice_1"
              StartupUri="Views/MainWindow.xaml">
     <Application.Resources />
 </Application>

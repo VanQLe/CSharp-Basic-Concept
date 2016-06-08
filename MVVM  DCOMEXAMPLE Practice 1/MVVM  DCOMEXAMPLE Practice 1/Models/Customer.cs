@@ -1,30 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVVM_Example.Models
+namespace MVVM__DCOMEXAMPLE_Practice_1.Models
 {
-    using System;
     using System.ComponentModel;
-    public class Customer : INotifyPropertyChanged
+    class Customer : INotifyPropertyChanged
     {
-
+        
         private string _Name;
 
         /// <summary>
-        /// Initializes a new instance of a Customer class
+        /// Initialize a Customer class object
         /// </summary>
         /// <param name="customerName"></param>
-        public Customer(String customerName)
+        public Customer(string customerName)
         {
             Name = customerName;
-        }
+        }//end constructor
 
         /// <summary>
-        /// Gets or sets the Customer's name.
+        /// Gets or set the Customer's name
         /// </summary>
         public string Name
         {
@@ -38,22 +36,22 @@ namespace MVVM_Example.Models
                 _Name = value;
                 OnPropertyChanged("Name");
             }
-
         }
 
-        #region INotifyPropertyChanged   Members
-
+        #region INotifyPropertyChanged Members
         public event PropertyChangedEventHandler PropertyChanged;
-        private void OnPropertyChanged( string propertyName)
+
+        private void OnPropertyChanged(string propertyName)
         {
             PropertyChangedEventHandler handler = PropertyChanged;
-            if (handler != null)
+
+            if(handler != null)
             {
                 handler(this, new PropertyChangedEventArgs(propertyName));
-             
             }
         }
-        #endregion
-    }
 
+        #endregion
+
+    }
 }

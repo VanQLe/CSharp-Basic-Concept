@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MVVM_Example.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,7 @@ namespace MVVM_Example
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new CustomerViewModel();
         }
     }
 }
